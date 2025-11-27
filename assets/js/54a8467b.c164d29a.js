@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_docs=globalThis.webpackChunkmy_docs||[]).push([[274],{1880:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/git_hub_act1/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
